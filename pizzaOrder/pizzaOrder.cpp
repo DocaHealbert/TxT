@@ -15,7 +15,7 @@ int main(){
 	
 	pizzaOrder orders[150];
 	
-	ifstream inData("riderinfo.txt");
+	ifstream inData("customer.txt");
 	
 	for(int i=0;i<150;i++){
 		getline(inData,orders[i].name, ',');

@@ -1,0 +1,11 @@
+Summary of Pizza Orders: 
+
+Name			Phone Number		Pizza Type	Size	Price(RM)
+---------------------------------------------------------------------------------------------------------------------
+Mohd Azmi		012345789		Margherita	Large	25
+
+Ben Alfonso		0130598755		Peperoni	Large	25
+
+Alnaira Elhan		0198564875		BBQ Chicken	Large	25
+
+Total number of large pizzas ordered: 3

@@ -1,0 +1,8 @@
+Summary for Cheesecake
+
+Name	Phone Number	Cake Type	Price
+=====================================================================
+Aisyah	011236237	Original	260
+Bella	0192425626	Original	300
+
+Total number of cheesecake that weight more than 5 kg: 2

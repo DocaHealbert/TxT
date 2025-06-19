@@ -1,0 +1,6 @@
+Mohd Azmi,012345789,Margherita,Large,25.00
+Danish,0123689547,Spicy Anchovies,Medium,22.90
+Amily Qaseh Farhana,0146589632,Peperoni,Small,17.50
+Ben Alfonso,0130598755,Peperoni,Large,25.00
+Muhammad Aqif Ehsan,0169854236,Vegetarian,Medium,22.90
+Alnaira Elhan,0198564875,BBQ Chicken,Large,25.00

@@ -1,0 +1,19 @@
+restart;
+with(LinearAlgebra):
+
+# Define matrix and vector
+MatrixC := Matrix([[2, 1, -1, 1], [-3, 4, 2, -1], [1, -1, 3, 2], [4, 2, -1, 3]]);
+b := Vector([5, -1, 10, 7]);
+
+# a) Display coefficient matrix
+MatrixC;
+
+# b) Solve using Gauss-Jordan Elimination
+Augmented := <MatrixC | b>;
+GaussJordanElimination(Augmented);
+
+# c) Find inverse using row operations
+InverseC := GaussJordanElimination(<MatrixC | IdentityMatrix(4)>);
+
+# d) Solve using matrix inversion method
+x := Inverse(MatrixC).b;
